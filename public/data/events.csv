@@ -1,0 +1,33 @@
+city_id,id,name,category,dimension,latitude,longitude
+toronto-canada,tor-cn-tower,CN Tower,landmark,culture,43.6426,-79.3871
+toronto-canada,tor-rom,Royal Ontario Museum,museum,culture,43.6677,-79.3948
+toronto-canada,tor-islands,Toronto Islands,nature,vibe,43.6205,-79.3782
+toronto-canada,tor-kensington,Kensington Market,food,food,43.6548,-79.4005
+toronto-canada,tor-distillery,Distillery District,culture,vibe,43.6503,-79.3596
+hamilton-canada,ham-waterfront,Waterfront Trail,nature,vibe,43.2630,-79.8670
+hamilton-canada,ham-dundurn,Dundurn Castle,culture,culture,43.2694,-79.8661
+hamilton-canada,ham-waterfall,Albion Falls,nature,vibe,43.2003,-79.8196
+hamilton-canada,ham-art,Art Gallery of Hamilton,museum,culture,43.2577,-79.8773
+brampton-canada,bra-gage,Gage Park,park,vibe,43.6764,-79.7382
+brampton-canada,bra-rose,Rose Theatre,culture,culture,43.6835,-79.7661
+brampton-canada,bra-trail,Chinguacousy Trail,nature,vibe,43.7180,-79.7180
+mississauga-canada,mis-squares,Port Credit harbour,food,food,43.5534,-79.5886
+mississauga-canada,mis-celebration,Celebration Square,culture,vibe,43.5890,-79.6441
+mississauga-canada,mis-rattray,Rattray Marsh,nature,vibe,43.5230,-79.6280
+mississauga-canada,mis-square-one,Square One,shopping,vibe,43.5932,-79.6455
+oakville-canada,oak-harbour,Oakville Harbour,food,food,43.4501,-79.6682
+oakville-canada,oak-glen,Glen Abbey trails,nature,vibe,43.4560,-79.7200
+oakville-canada,oak-downtown,Downtown Oakville,culture,culture,43.4500,-79.6660
+ottawa-canada,ott-parliament,Parliament Hill,landmark,culture,45.4215,-75.6972
+ottawa-canada,ott-canal,Rideau Canal,nature,vibe,45.4110,-75.6910
+ottawa-canada,ott-museums,National Gallery,museum,culture,45.4295,-75.6989
+ottawa-canada,ott-byward,ByWard Market,food,food,45.4286,-75.6937
+vancouver-canada,van-stanley,Stanley Park,nature,vibe,49.3043,-123.1443
+vancouver-canada,van-granville,Granville Island,food,food,49.2713,-123.1348
+vancouver-canada,van-gastown,Gastown,culture,vibe,49.2840,-123.1088
+new-york-usa,nyc-central,Central Park,nature,vibe,40.7829,-73.9654
+new-york-usa,nyc-met,The Met,museum,culture,40.7794,-73.9632
+new-york-usa,nyc-brooklyn,Brooklyn Bridge,landmark,culture,40.7061,-73.9969
+paris-france,paris-eiffel,Eiffel Tower,landmark,culture,48.8584,2.2945
+paris-france,paris-louvre,Louvre,museum,culture,48.8606,2.3376
+paris-france,paris-montmartre,Montmartre,culture,vibe,48.8867,2.3431
